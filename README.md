@@ -36,7 +36,11 @@ O arquivo `style.css` define a cor de fundo da página e outras configurações 
 
 ```css
 body {
-    background: #e80707;
+    background: #e80707; /* Fundo vermelho vibrante */
+    margin: 0;
+    padding: 0;
+    overflow: hidden; /* Garante que os flocos não causem rolagem */
+    font-family: Arial, sans-serif;
 }
 ```
 

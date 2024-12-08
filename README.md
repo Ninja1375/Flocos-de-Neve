@@ -36,4 +36,8 @@ O arquivo `style.css` define a cor de fundo da página e outras configurações 
 body {
     background: #e80707;
 }
+```
 
+### javaScript
+
+O arquivo ```script.js``` contém a lógica que gera os flocos de neve. Cada floco é um elemento ```span``` com um ícone de floco de neve e estilos aleatórios, como tamanho e velocidade. A função ```move()``` move os flocos pela tela, e novos flocos são gerados conforme os antigos saem da tela.

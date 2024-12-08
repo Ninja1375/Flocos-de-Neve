@@ -12,6 +12,8 @@ Este é um simples efeito visual de flocos de neve caindo sobre a página, utili
 
 ## Tecnologias Utilizadas
 
+<a href="https://programartudo.blogspot.com/2024/11/html-tudo-o-que-precisa-para-comecar.html" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/></a> <a href="https://programartudo.blogspot.com/2024/11/css-como-dar-estilo-ao-teu-website.html" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/></a> <a href="https://programartudo.blogspot.com/2024/11/javascript-linguagem-dinamica-da-web.html" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
+
 - **HTML**: Estrutura básica da página.
 - **CSS**: Estilização do fundo da página e dos flocos de neve.
 - **JavaScript**: Lógica para gerar os flocos de neve e movê-los pela tela. A biblioteca jQuery foi utilizada para facilitar manipulações DOM e animações.

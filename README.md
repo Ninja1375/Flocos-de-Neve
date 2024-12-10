@@ -1,5 +1,8 @@
 # [Flocos de Neve](https://ninja1375.github.io/Flocos-de-Neve/)
 
+![Flocos de Neve ](https://github.com/user-attachments/assets/2f107142-fbef-47a5-93dc-14dd3d7667ac)
+
+
 ## Descrição
 
 Este é um simples efeito visual de flocos de neve caindo sobre a página, utilizando HTML, CSS e JavaScript. O projeto foi criado para simular flocos de neve flutuando pela tela, criando um efeito visual encantador para websites durante o inverno ou para dar um toque festivo.

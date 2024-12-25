@@ -1,7 +1,14 @@
 # [Flocos de Neve](https://ninja1375.github.io/Flocos-de-Neve/)
 
-![Flocos de Neve ](https://github.com/user-attachments/assets/2f107142-fbef-47a5-93dc-14dd3d7667ac)
+>[!IMPORTANT]
+Não fique muito tempo olhando para a animação, ela pode prejudicar **TEMPORARIAMENTE** a visão.
 
+<details>
+    <summary>Demonstração!</summary>
+    
+![Flocos de Neve ](https://github.com/user-attachments/assets/2f107142-fbef-47a5-93dc-14dd3d7667ac)
+    
+</details>
 
 ## Descrição
 
